@@ -1,4 +1,2 @@
-# nike  - http://nike.jobability.co.kr/
+# coke  - https://seunghyuni.github.io/dev_coke
 
-<img src="nike.png">
-<img src="nike_ex.png">
